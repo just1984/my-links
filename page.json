@@ -1,32 +1,27 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Boris",
+  "description": "Mobile App Developer, Artist, Ex-Blogger and freelance Photojournalist",
+  "image_url": "http://1just.de/wp-content/uploads/2019/09/bo.jpg",
   "links": [
     {
-      "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
-      "icon": "instagram"
-    },
-    {
-      "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
-      "icon": "twitter"
+      "title": "Photo-Portfolio",
+      "url": "http://borisniehaus.de/",
+      "icon": ""
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/bo-niehaus/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/just1984",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
+      "title": "Twitter / Polizeistressi",
+      "url": "https://twitter.com/polizei_stressi",
+      "icon": "twitter"
     }
   ]
 }
